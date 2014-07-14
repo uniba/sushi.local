@@ -1,3 +1,3 @@
-# :sushi
+# :sushi:
 
 :sushi:
